@@ -2,7 +2,7 @@
 /**
 * waApplicazione
 *
-* classe contenenente i metodi e le proprieta' comuni di una applicazione
+* classe contenente i metodi e le proprieta' comuni di una applicazione
 * standard
 * 
 * @package waApplicazione
